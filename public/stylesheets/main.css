@@ -1,0 +1,27 @@
+header h1 {
+	text-align: left;
+	margin-left: 100px;
+	margin-bottom: 0px;
+	color: #5DDEDB;
+	font-family: "Helvetica";
+	font-size: 40px;
+}
+
+header h1 .titleColor2 {
+	color: #FF8C00;
+}
+
+body {
+	background-color: #EDEDED;
+}
+
+section {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 0px;
+	padding-left: 10px;
+	height: 400px;
+	border-radius: 15px;
+}
+
